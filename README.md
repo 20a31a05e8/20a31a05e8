@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **"While debugging, You feel like Sherlock Holmes, except the culprit is usually a missing semicolon."**
 
-<h3 align="center">Blog Posts</h3>
+<h3 align="center">My Blogs</h3>
 
 - [Join the Cloud Community: Eligibility Criteria and Introduction to the Google Cloud Career Fair.](https://medium.com/@mnsreddy252/join-the-cloud-community-eligibility-criteria-and-introduction-to-the-google-cloud-career-fair-c63b306dc3ea)
 - [Beyond the Interview: Navigating the Google Cloud Career Fair 2022 as a 3rd-Year Engineering Student.](https://medium.com/@mnsreddy252/beyond-the-interview-navigating-the-google-cloud-career-fair-2022-as-a-3rd-year-engineering-8a8a63e84565)
