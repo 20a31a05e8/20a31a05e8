@@ -1,13 +1,12 @@
 <p align="center">
-<a><img src="https://raw.githubusercontent.com/DeepaPrasanna/DeepaPrasanna/master/images/femalecodertocat.png" width="300px"> </a>
+<a><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif"></a>
 </p>
 
 
-
-<h1 align="center">Hi, I'm Navya Sri👋</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi,I'm Navya Sri</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=20a31a05e8&label=Visitors%20&color=0e75b6&style=flat" alt="20a31a05e8" /> </p>
 <h3 align="center">An Innovative Web Developer and DevOps Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=20a31a05e8&label=Profile%20views&color=0e75b6&style=flat" alt="20a31a05e8" /> </p>
 
 - 🔭 I’m currently working on **Portfolio Website**
 
