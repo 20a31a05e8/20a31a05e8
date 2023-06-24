@@ -1,3 +1,9 @@
+<p align="center">
+<a><img src="https://raw.githubusercontent.com/DeepaPrasanna/DeepaPrasanna/master/images/femalecodertocat.png" width="300px"> </a>
+</p>
+
+
+
 <h1 align="center">Hi, I'm Navya Sri👋</h1>
 <h3 align="center">An Innovative Web Developer and DevOps Enthusiast from India</h3>
 
@@ -6,6 +12,8 @@
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Node js**
+
+- 👯 I'm looking to collaborate on **open-source projects.** 
 
 - 💬 Ask me about **CI/CD Pipeline**
 
