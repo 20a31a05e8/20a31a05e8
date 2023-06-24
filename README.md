@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **CI/CD Pipeline**
 
+- 🥅 Open Source Contributor at **GSSOC'23 and SSOC'23**
+
 - ⚡ Fun fact: **"While debugging, You feel like Sherlock Holmes, except the culprit is usually a missing semicolon."**
 
 <h3 align="center">My Blogs</h3>
