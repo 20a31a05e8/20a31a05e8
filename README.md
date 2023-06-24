@@ -1,5 +1,7 @@
 <p align="center">
-<a><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif"></a>
+<a>
+  <img src="https://raw.githubusercontent.com/ChathurikaDissanayaka/ChathurikaDissanayaka/main/img/code.gif" alt="Animated code GIF">
+</a>
 </p>
 
 
