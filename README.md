@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I'm looking to collaborate on **open-source projects.** 
 
