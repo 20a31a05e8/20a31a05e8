@@ -7,21 +7,21 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi,I'm Navya Sri</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20a31a05e8&label=Visitors%20&color=0e75b6&style=flat" alt="20a31a05e8" /> </p>
-<h3 align="center">An Innovative Frontend Developer and DevOps Enthusiast from India</h3>
+<h3 align="center">**Google Professional Security Operations Engineer | Open Source Contributor (GSSoC'23 & SSOC'23)**</h3>
 
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 Building scalable, customer-centric **Managed Detection & Response (MDR) solutions**.
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 Exploring **AI** for Cybersecurity, Detection Engineering, and Security Automation.
 
 - 👯 I'm looking to collaborate on **open-source projects.** 
 
-- 💬 Ask me about **CI/CD Pipeline**
+- 💬 **Ask me** about Google Security Operations, Security Data Engineering, Detection Engineering, SOAR Automation, Incident Response, and Threat Hunting.
 
-- 🥅 Open Source Contributor at **GSSOC'23 and SSOC'23**
+- 🏆  I love engineering security solutions that **transform raw telemetry into meaningful detections** and **automated response workflows**.
 
-- ⚡ Fun fact: **"While debugging, You feel like Sherlock Holmes, except the culprit is usually a missing semicolon."**
-
+- ⚡ Fun fact: **🕵️ Sherlock Holmes solved mysteries with clues from crime scenes. I solve them with clues hidden in security logs. 🔍 Sherlock never had to investigate false positives... lucky him. 😄
+**
 <h3 align="center">My Blogs</h3>
 
 - [Join the Cloud Community: Eligibility Criteria and Introduction to the Google Cloud Career Fair.](https://medium.com/@mnsreddy252/join-the-cloud-community-eligibility-criteria-and-introduction-to-the-google-cloud-career-fair-c63b306dc3ea)
