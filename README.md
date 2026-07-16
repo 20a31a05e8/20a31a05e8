@@ -7,7 +7,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi,I'm Navya Sri</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20a31a05e8&label=Visitors%20&color=0e75b6&style=flat" alt="20a31a05e8" /> </p>
-<h3 align="center">**Google Professional Security Operations Engineer | Open Source Contributor (GSSoC'23 & SSOC'23)**</h3>
+<h3 align="center">Google Professional Security Operations Engineer | Open Source Contributor (GSSoC'23 & SSOC'23)</h3>
 
 
 - 🔭 Building scalable, customer-centric **Managed Detection & Response (MDR) solutions**.
@@ -20,8 +20,8 @@
 
 - 🏆  I love engineering security solutions that **transform raw telemetry into meaningful detections** and **automated response workflows**.
 
-- ⚡ Fun fact: **🕵️ Sherlock Holmes solved mysteries with clues from crime scenes. I solve them with clues hidden in security logs. 🔍 Sherlock never had to investigate false positives... lucky him. 😄
-**
+- ⚡ Fun fact: 🕵️ **Sherlock Holmes solved mysteries with clues from crime scenes. I solve them with clues hidden in security logs. 🔍 Sherlock never had to investigate false positives... lucky him.** 😄
+  
 <h3 align="center">My Blogs</h3>
 
 - [Join the Cloud Community: Eligibility Criteria and Introduction to the Google Cloud Career Fair.](https://medium.com/@mnsreddy252/join-the-cloud-community-eligibility-criteria-and-introduction-to-the-google-cloud-career-fair-c63b306dc3ea)
